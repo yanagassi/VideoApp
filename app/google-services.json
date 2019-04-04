@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "305507249312",
+    "firebase_url": "https://voittoapp.firebaseio.com",
+    "project_id": "voittoapp",
+    "storage_bucket": "voittoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305507249312:android:b1dc118db95216f9",
+        "android_client_info": {
+          "package_name": "br.com.voitto.app.voitto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305507249312-53s2u7qfs4vg7jl065p8n52f14ntgalm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.voitto.app.voitto_app",
+            "certificate_hash": "b0c9ed415b0c7a60566becb8c429aadb4bd2579b"
+          }
+        },
+        {
+          "client_id": "305507249312-5ok194ja05oiafviv6rsf612fr84dg96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqP-zU4oDsC-uRgkJ-pTyhv_9qijjlM5Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305507249312-5ok194ja05oiafviv6rsf612fr84dg96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
