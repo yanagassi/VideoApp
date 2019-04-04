@@ -1,30 +1,26 @@
-# README #
+<h1> Aplicativo de stream</h1>
 
-This README would normally document whatever steps are necessary to get your application up and running.
+<h2>Qualidades</h2>
+<ul>
+  <li>Possibilidade de Assitir videos</li>
+  <li>Sistema de download de videos para assistir offline</li>
+  <li>Modo offline do aplicativo</li>
+  <li>Possibilidade de edição de perfil</li>
+  <li>Possibilidade de acesso ao blog</li>
+  <li>Leitura de artigos usando webview</li>  
+</ul>
 
-### What is this repository for? ###
+<h2>Desenvolvmento</h2>
 
-* Quick summary
+<ul>
+  <li>O aplicativo não acompanha API, que foi desenvolvida em PHP OO</li>
+  <li>Linguagens usadas: JAVA, XML e PHP OO</li>
+  <li>Feramentas usadas: Android Studio</li>
+  <li>Libs usadas: Picaso, Youtube, Facebook, JSON Parser</li>
+</ul>
 
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+<h3>Notas:</h3>
+<ul>
+  <li>Desenvolvimento do aplicativo em Java "puro", com a finalidade unica de estudo e aprofundamento total na linguagem Java e no Android Studio</li>
+</ul>
